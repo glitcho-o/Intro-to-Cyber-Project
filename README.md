@@ -1,8 +1,5 @@
 # Intro-to-Cyber-Project
-Got it! Here's a description for your Intro to Cyber Security project using Airgeddon:  
-
 ---
-
 Airgeddon: Wireless Network Security Testing  
 A Cyber Security Project for Intro to Cyber
 
